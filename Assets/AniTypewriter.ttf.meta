@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 68179301b365b5d4fa04bf57f935fa2f
+timeCreated: 1517146643
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AniTypewriter
+  fontNames:
+  - AniTypewriter
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

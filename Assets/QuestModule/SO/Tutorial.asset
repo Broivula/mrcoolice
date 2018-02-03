@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf32ac3fa4f15748a578fc570c8fcd3, type: 3}
+  m_Name: Tutorial
+  m_EditorClassIdentifier: 
+  dialogue:
+  - {fileID: 11400000, guid: c98a8c8d51b2b6f4391cded1ca37c296, type: 2}
+  - {fileID: 11400000, guid: b372d14849abbd845b96f1ce7b5f2ce3, type: 2}
+  - {fileID: 11400000, guid: 4af61f9ddb7cacc418780217671267f0, type: 2}
+  - {fileID: 11400000, guid: edd8942a6df39e840a62000b005f7856, type: 2}
+  - {fileID: 11400000, guid: 570ac5913a34aa94ea5002e4b6d27b55, type: 2}
+  - {fileID: 11400000, guid: 90e6cef117d0ea74797a75942f6a093e, type: 2}
+  questType: 2
+  questLevel: 0
+  baseContainer: {fileID: 114050702467132130, guid: a719ea8bb4140e145992dd9e65d6842c,
+    type: 2}

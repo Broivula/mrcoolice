@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 2170e92fb64191f4c8ab9fe66312d641
+timeCreated: 1517072097
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: group_1692528657
+    100002: group_812305468
+    100004: group_979327674
+    100006: mesh_1077482256
+    100008: mesh_1111457097
+    100010: mesh_1209406790
+    100012: mesh_1267489552
+    100014: mesh_1679167855
+    100016: mesh_1682124437
+    100018: mesh_2002657977
+    100020: mesh_2135085973
+    100022: mesh_24496428
+    100024: mesh_392653150
+    100026: mesh_51781804
+    100028: mesh_678780389
+    100030: //RootNode
+    400000: group_1692528657
+    400002: group_812305468
+    400004: group_979327674
+    400006: mesh_1077482256
+    400008: mesh_1111457097
+    400010: mesh_1209406790
+    400012: mesh_1267489552
+    400014: mesh_1679167855
+    400016: mesh_1682124437
+    400018: mesh_2002657977
+    400020: mesh_2135085973
+    400022: mesh_24496428
+    400024: mesh_392653150
+    400026: mesh_51781804
+    400028: mesh_678780389
+    400030: //RootNode
+    2300000: mesh_1077482256
+    2300002: mesh_1111457097
+    2300004: mesh_1209406790
+    2300006: mesh_1267489552
+    2300008: mesh_1679167855
+    2300010: mesh_1682124437
+    2300012: mesh_2002657977
+    2300014: mesh_2135085973
+    2300016: mesh_24496428
+    2300018: mesh_392653150
+    2300020: mesh_51781804
+    2300022: mesh_678780389
+    3300000: mesh_1077482256
+    3300002: mesh_1111457097
+    3300004: mesh_1209406790
+    3300006: mesh_1267489552
+    3300008: mesh_1679167855
+    3300010: mesh_1682124437
+    3300012: mesh_2002657977
+    3300014: mesh_2135085973
+    3300016: mesh_24496428
+    3300018: mesh_392653150
+    3300020: mesh_51781804
+    3300022: mesh_678780389
+    4300000: mesh_1111457097
+    4300002: mesh_1679167855
+    4300004: mesh_2135085973
+    4300006: mesh_2002657977
+    4300008: mesh_392653150
+    4300010: mesh_51781804
+    4300012: mesh_1267489552
+    4300014: mesh_1077482256
+    4300016: mesh_1682124437
+    4300018: mesh_24496428
+    4300020: mesh_678780389
+    4300022: mesh_1209406790
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_12___27310
+    second: {fileID: 2100000, guid: d5e733d62b54da14b8c054e7c666ba16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_15___27310
+    second: {fileID: 2100000, guid: 4ad4c26e423a66b468c860bc6e00f61f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_21___27310
+    second: {fileID: 2100000, guid: 41a75d5c4432baf45a96d17060943e69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_22___27310
+    second: {fileID: 2100000, guid: 239c1eb12dd50bc4db88aaed5f4e702f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_23___27310
+    second: {fileID: 2100000, guid: d96c897ac922d7140a2345f952ba4b04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_5___27310
+    second: {fileID: 2100000, guid: 9531823d6c648d1459e57588805e6f19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: material_8___27310
+    second: {fileID: 2100000, guid: 95534c2e7a77a884e985d1def85ec909, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.3
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

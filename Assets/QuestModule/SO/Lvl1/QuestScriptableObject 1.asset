@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf32ac3fa4f15748a578fc570c8fcd3, type: 3}
+  m_Name: QuestScriptableObject 1
+  m_EditorClassIdentifier: 
+  dialogue:
+  - {fileID: 11400000, guid: f5554c6804339e444bc8c0752bfa3814, type: 2}
+  - {fileID: 11400000, guid: 244447c755e863543aa78f6044586512, type: 2}
+  - {fileID: 11400000, guid: c63114c68ff028e43bc7db42114afcca, type: 2}
+  - {fileID: 11400000, guid: 71e0d60c6da2f254e8a99a34c603e91d, type: 2}
+  - {fileID: 11400000, guid: f3056ea30451f4c4ca63555b9852311a, type: 2}
+  questType: 0
+  questLevel: 1
+  baseContainer: {fileID: 114482251344060098, guid: ffce65d472a351e4687232574a2c14bb,
+    type: 2}
